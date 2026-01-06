@@ -11,4 +11,4 @@ Hình ảnh so sánh sản phẩm do máy thực hiện và sản phẩm đượ
 ![z7404263516903_7521fe30093346275f5886cf16581241](https://github.com/user-attachments/assets/d90a8dd8-1b69-4e32-883c-59087f04656a)
 
 
-Video chạy thử nghiệm sản phẩm: https://youtube.com/shorts/00JwMxtJCWM?feature=share
+Video chạy thử nghiệm sản phẩm: [https://youtube.com/shorts/00JwMxtJCWM?feature=share](https://youtube.com/shorts/s8EpEjXtacA)
