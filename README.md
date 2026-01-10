@@ -11,10 +11,12 @@ Hình ảnh so sánh sản phẩm do máy thực hiện và sản phẩm đượ
 ![z7404263516903_7521fe30093346275f5886cf16581241](https://github.com/user-attachments/assets/d90a8dd8-1b69-4e32-883c-59087f04656a)
 
 
-Hình ảnh phần cứng thử nghiệm:
+# Hình ảnh phần cứng thử nghiệm:
 
+Relay tọa độ gốc
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/05b5f6c6-037f-49be-a739-169091a9a586" />
 
+Khung cơ bản:
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/c483866f-cf76-40da-9cf9-af9c94bdda5f" />
 
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/be4c4e33-ecf0-4250-a4da-24e7623773e8" />
