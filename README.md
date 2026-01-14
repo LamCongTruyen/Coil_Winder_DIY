@@ -10,7 +10,7 @@ Hình ảnh so sánh sản phẩm do máy thực hiện và sản phẩm đượ
 
 ![z7404263516903_7521fe30093346275f5886cf16581241](https://github.com/user-attachments/assets/d90a8dd8-1b69-4e32-883c-59087f04656a)
 
-Hiện tại có hai kịch bản cuốn đó là cuốn 9 vòng trong 1 lớp rồi mới chuyển lớp, hai là cuốn 9 vòng rồi mới chuyển lớp. Tương lai sẽ viết thêm các kịch bản cuộn khác để phù hợp với yêu cầu của khác hàng.
+Hiện tại có hai kịch bản cuốn đó là cuốn 9 vòng liên tiếp 1 lớp rồi mới chuyển lớp, hai là cuốn 9 lớp rồi mới chuyển vòng mới. Tương lai sẽ viết thêm các kịch bản cuộn khác để phù hợp với yêu cầu của khác hàng.
 # Hình ảnh phần cứng thử nghiệm:
 
 Relay tọa độ gốc
