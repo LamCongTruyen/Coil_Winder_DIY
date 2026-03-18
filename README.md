@@ -1,4 +1,4 @@
-# Máy cuốn dây thun/dây đồng
+# Máy cuốn dây thun/dây đồng - dự án thực tế tự nhận làm cho khách hàng
 
 # Source code is private but can be shared for interview purposes
 
