@@ -8,7 +8,7 @@ Hình ảnh sản phẩm máy thực hiện cuốn
 
 ![z7404263519043_b365baffe6d84626bb6f95110b70145e](https://github.com/user-attachments/assets/9dd03b20-c323-4a89-a763-40d77acf1745)
 
-Hình ảnh so sánh sản phẩm do máy thực hiện và sản phẩm được cuộn thủ công bằng tay
+Hình ảnh so sánh sản phẩm do máy thực hiện (bên trái) và sản phẩm được cuộn thủ công bằng tay(bên phải)
 
 ![z7404263516903_7521fe30093346275f5886cf16581241](https://github.com/user-attachments/assets/d90a8dd8-1b69-4e32-883c-59087f04656a)
 
